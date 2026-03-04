@@ -14,16 +14,9 @@
 
 ---
 
-I'm a Data Science and AI grad from IIIT Dharwad. Most of my work lives somewhere between healthcare data and ML pipelines — I've spent time building NLP chatbots for clinical domains, classifying facial skin types with CNNs, and co-authoring a paper that got published in a Scopus-indexed journal.
+I'm a Data Science and Artificial Intelligence graduate from IIIT Dharwad. Most of my work lives somewhere between healthcare data and ML pipelines — I've spent time building NLP chatbots for clinical domains, classifying facial skin types with CNNs, and co-authoring a paper that got published in a Scopus-indexed journal.
 
 I like problems that are messy in the real world: noisy data, domain-specific language, limited labels. That's where the interesting engineering happens.
-
----
-## Publication
-
-**Impact of Internet Derived Information Obstruction Treatment (IDIOT) Syndrome — A Student Cohort Study**  
-*Tuijin Jishu / Journal of Propulsion Technology · Scopus Indexed · Vol. 47, 2026*  
-Chava Srinivasa Sai, **Mandapalli Ruthvik**, Ramesh Athe
 
 ---
 
@@ -33,6 +26,16 @@ Chava Srinivasa Sai, **Mandapalli Ruthvik**, Ramesh Athe
 **Intermediate** · Aditya IIT Junior College, Kakinada · 2019–2021 · 93.6%
 
 ---
+
+## Publication
+
+**Impact of Internet Derived Information Obstruction Treatment (IDIOT) Syndrome — A Student Cohort Study**  
+*Tuijin Jishu / Journal of Propulsion Technology · Scopus Indexed · Vol. 47, 2026*  
+Chava Srinivasa Sai, **Mandapalli Ruthvik**, Ramesh Athe
+
+---
+
+
 ## Projects
 
 ### Glaucoma Domain Chatbot
